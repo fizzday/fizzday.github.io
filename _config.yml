@@ -184,9 +184,9 @@ sidebar:
   - title: mailto:fizzday@yeah.net # email
     href: mailto:fizzday@yeah.net
     class: 'fas fa-envelope fa-fw'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
-    class: 'fas fa-chart-bar fw'
+#  - title: WuK # codeforces
+#    href: //codeforces.com/profile/WuK
+#    class: 'fas fa-chart-bar fw'
 #  - title: WuK # vjudge
 #    href: //vjudge.net/user/WuK
 #    class: 'fas fa-smile fa-fw'
@@ -248,7 +248,7 @@ sidebar:
     second: 秒
   copyright:
     enable: true
-    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
+    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star gohouse/gorose on GitHub" href="https://github.com/gohouse/gorose" data-icon="octicon-star" data-show-count="true">Star</a>'
 
 index:
   showtag:
