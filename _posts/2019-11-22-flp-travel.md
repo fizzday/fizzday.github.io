@@ -1,3 +1,9 @@
+---
+title: flp's travel
+categories:
+- travel
+---
+
 ## pics
 - 入1  
 ![入1.png](https://i.loli.net/2019/11/22/3sQNKt5xSlOprFB.png)  
